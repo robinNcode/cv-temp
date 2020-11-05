@@ -1,0 +1,62 @@
+@media(max-width: 775px)
+{
+	.all
+	{
+		margin: 0;
+		padding: 0;
+	}
+	.all .header-area .left-content
+	{
+		width: 100%;
+	}
+	.all .header-area .right-content
+	{
+		width: 100%;
+		margin: 0;
+		padding: 0;
+	}
+	.all .para-2
+	{
+		margin: 0;
+		padding: 0;
+		width: 100%;
+	}
+	.all .para-2 .l-side
+	{
+		margin: 0;
+		padding: 0;
+		width: 100%;
+	}
+	.all .header-area .right-content h1
+	{
+		border: none;
+	}
+	.all .para-2 .l-side
+	{
+		width: 100%;
+		margin: 0;
+		padding: 0;
+	}
+	.all .para-2 .contact-area
+	{
+		width: 100%;
+		margin: 0;
+		padding: 0;
+	}
+	.all .header-area .right-content
+	{
+		width: 100%;
+		margin: 0;
+		padding: 0;
+	}
+	.all .para-2 .experience
+	{
+		margin: 0;
+		padding: 0;
+		width: 100%;
+	}
+	.all .para-2 .experience >p
+	{
+		margin: 15px 0;
+	}
+}
